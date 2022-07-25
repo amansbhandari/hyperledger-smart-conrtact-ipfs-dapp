@@ -1,0 +1,26 @@
+{
+  "name": "assignment2-dapp-b00910008",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aman singh bhandari",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "fabric-ca-client": "^2.2.13",
+    "fabric-network": "^2.2.13",
+    "jquery": "^3.6.0",
+    "url": "^0.11.0",
+    "bs32": "^0.1.6",
+    "bs58": "^5.0.0",
+    "cids": "^1.1.9",
+    "crypto": "^1.0.1",
+    "ipfs-http-client": "^57.0.1",
+    "node-abort-controller": "^3.0.1",
+    "web3": "^1.7.3"
+  }
+}
