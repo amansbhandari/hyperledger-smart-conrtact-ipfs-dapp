@@ -9,7 +9,7 @@ Banner Id : B00910008
 
 ```
 cd existing_repo
-git remote add origin https://git.cs.dal.ca/bhandari/csci-6313-assignment3.git
+git remote add origin https://git.cs.dal.ca/bhandari/csci-6313-assignment4.git
 git branch -M main
 git push -uf origin main
 ```
